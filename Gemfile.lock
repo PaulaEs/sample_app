@@ -167,7 +167,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  annotate (= 2.5.0)
+  annotate
   bootstrap-sass
   capybara
   coffee-rails
